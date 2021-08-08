@@ -1,2 +1,2 @@
-# Multithreaded-Testing
-Testing multithreaded applications using signalling.
+# Multithreaded Testing
+A very easy way of testing multithreaded applications using signalling.
