@@ -1,2 +1,2 @@
 # Multithreaded Testing
-A very easy way of testing multithreaded applications using signalling.
+A very easy way of testing multithreaded applications using synchronisation contexts.
